@@ -2,4 +2,4 @@
 
 Totem for outgoing colleagues from Office 25.
 
-Last update: 2025-04-01
+Last update: 2025-04-30
